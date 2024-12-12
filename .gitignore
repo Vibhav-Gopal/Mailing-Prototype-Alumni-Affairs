@@ -1,0 +1,9 @@
+credentials.json
+credsFile.json
+testFile*
+*.json
+*.xlsx
+*.png
+*.txt
+*.html
+__pycache__
